@@ -3,3 +3,10 @@
 /.venv/
 /env/
 /.env/
+
+#__pycache__
+__pycache__/
+
+#data   
+names.txt
+data/
