@@ -10,3 +10,6 @@ __pycache__/
 #data   
 names.txt
 data/
+
+#test
+test/
